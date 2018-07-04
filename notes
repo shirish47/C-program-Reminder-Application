@@ -1,0 +1,23 @@
+Menu
+ 1) Create Reminder
+ 2) Delete Reminder
+ 3) View Reminder
+ 4) Exit
+
+Create Reminder done***
+ 1) title
+ 2) Message
+ 3) Date
+ 4) time
+ 5) audio file 
+
+View Reminder done***
+ 1) Title
+ 2) Message
+ 3) Date - Time
+ 4) file Name
+
+
+
+store to file(CSV)
+Title, Message, Date, Time, file Name, active or not
